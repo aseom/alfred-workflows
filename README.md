@@ -8,7 +8,8 @@ Daum Dictionary
 
 ![screenshot](https://raw.githubusercontent.com/aseom/images/master/alfred-daum-dictionary-resize.png)
 
-**[Download Workflow](https://github.com/aseom/alfred-workflows/raw/master/daum-dictionary/Daum%20Dictionary.alfredworkflow)**
+**[Download Workflow](https://github.com/aseom/alfred-workflows/raw/master/daum-dictionary/Daum%20Dictionary.alfredworkflow)**  
+**Last updated: Jul 21, 2016**
 
 Search Daum Dictionary with live suggestion.  
 실시간 검색어 제안을 제공하는 다음 사전 workflow입니다.  

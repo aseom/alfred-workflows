@@ -32,7 +32,7 @@ class BrowserView:
 
     class BrowserDelegate(AppKit.NSObject):
         def webView_contextMenuItemsForElement_defaultMenuItems_(self, webview, element, defaultMenuItems):
-            return nil
+            return defaultMenuItems
 
     class WebKitHost(WebKit.WebView):
         def performKeyEquivalent_(self, theEvent):
